@@ -78,5 +78,7 @@ Start the development server with live watch reloading enabled:
 ```bash
 npm run dev
 ```
+### 6. Live Demo :- 
+https://smart-student-hub-rksl.onrender.com
 
 Your server will spin up and run on **[http://localhost:3000](http://localhost:3000)**. Any updates to your TypeScript files or configuration will automatically trigger hot-reloads.
